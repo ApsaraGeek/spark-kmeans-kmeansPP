@@ -1,9 +1,11 @@
 # K-means implementation in Spark - Python
 
-## Objectives 
-* Implementing KMeans in Spark
-* Generate data for testing
-* Test the algorithm and show the resuts
+This project was developed during my masters at Paris-Dauphine university. You can find [here](https://github.com/bilal-elchami/data-analytics-kmeans/blob/master/docs/report.pdf) the project report.
+
+## Objectives
+* Implement KMeans in Spark.
+* Generate random data to feed our algorithms.
+* Test the algorithms and show some resuts.
 
 ## K-means:
 The K-means algorithm is one of the most used clustering methods to group a disparate set of data. This method relies mainly on unsupervised learning. The goal of this project is to implement the KMean algorithm with Spark (python) and evaluating the performance of our implementation based on existing and generated data.
